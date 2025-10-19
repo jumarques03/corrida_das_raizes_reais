@@ -1,6 +1,6 @@
 # CP03 – A Corrida das Raízes Reais
 
-**Aluno:** Júlia Souza Marques 
+**Aluno:** Júlia Souza Marques     
 **Turma:** 1CCA  
 **RM:** 565010  
 
