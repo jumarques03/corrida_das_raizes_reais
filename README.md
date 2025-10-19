@@ -36,4 +36,4 @@ O jogo continua até o jogador decidir encerrar. Ao final, é exibido o placar e
 
 1. Certifique-se de ter o **Python 3** instalado.  
 2. Coloque todos os arquivos `.py` na mesma pasta.  
-3. Abra o terminal nessa pasta e execute o comando:  **python main.py**
+3. Abra o terminal nessa pasta e execute o comando:  `python main.py`
