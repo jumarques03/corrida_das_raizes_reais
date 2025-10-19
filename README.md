@@ -8,7 +8,7 @@
 
 ## Descrição do Projeto
 
-Este programa foi desenvolvido como parte da atividade **A Corrida das Raízes Reais**, cujo objetivo é aplicar conceitos de equações do 2º grau em um jogo interativo no terminal.
+Este programa foi desenvolvido como parte da atividade **A Corrida das Raízes Reais**, cujo objetivo é aplicar modelagem computacional e programação em Python.
 
 ## Regras:
     - O jogador deve escolher os coeficientes A e B de uma equação do tipo Ax² + Bx + C = 0
@@ -23,7 +23,7 @@ O jogo continua até o jogador decidir encerrar. Ao final, é exibido o placar e
 
 ---
 
-## ⚙️ Arquivos incluídos
+## Arquivos incluídos
 
 - `main.py` → arquivo principal do jogo  
 - `expressao.py` → contém a classe **Expressão**, responsável por gerar a equação e calcular o delta  
@@ -32,7 +32,7 @@ O jogo continua até o jogador decidir encerrar. Ao final, é exibido o placar e
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 1. Certifique-se de ter o **Python 3** instalado.  
 2. Coloque todos os arquivos `.py` na mesma pasta.  
